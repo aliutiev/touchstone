@@ -1,0 +1,138 @@
+[
+    {
+        "type": "slide",
+        "title": "Did you know that... 76% of people on dating apps have STIs’?",
+        "content": "abcdefg"
+    },
+    {
+        "type": "slide",
+        "title": "First things first, Answer a few questions so we can help!",
+        "content": "abcdefg"
+    },
+    {
+        "type": "multiple-choice",
+        "title": "Do you want to destigmatize STI’s by having a Universal Authenticator for STI results?",
+        "content": "abcdefg",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "multiple-choice",
+        "title": "When was the last time you were tested for STI?",
+        "content": "abcdefg",
+        "options": [
+            "Never",
+            "3 months ago",
+            "3 - 6 months ago",
+            "7 - 12 months ago",
+            "More than a year ago"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "multiple-choice",
+        "title": "Do you want All-In-One STI testing kits that are packaged and delivered discreetly?",
+        "content": "abcdefg",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "slide",
+        "title": "Did you know that 1 in 2 sexually active people will contract a STI before the age of 25?",
+        "content": "abcdefg"
+    },
+    {
+        "type": "multiple-choice",
+        "title": "What is your sexual activity level?",
+        "content": "(Oral, Skin-to-skin, Penetrative)",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "form",
+        "title": "Select your state",
+        "content": "We need to make sure your state allows for at-home STI eligibility",
+        "fields": [
+            {
+                "label": "Name",
+                "type": "text",
+                "required": true
+            },
+            {
+                "label": "Email",
+                "type": "email",
+                "required": true
+            }
+        ]
+    },
+    {
+        "type": "form",
+        "title": "Confirm your date of birth",
+        "content": "Let us know your age!",
+        "fields": [
+            {
+                "label": "Name",
+                "type": "text",
+                "required": true
+            },
+            {
+                "label": "Email",
+                "type": "email",
+                "required": true
+            }
+        ]
+    },
+    {
+        "type": "multiple-choice",
+        "title": "What is your gender?",
+        "content": "We kindly inquire about your gender as a standard practice for all our patients, aiming to deliver safe and effective care. Rest assured, we embrace and respect all identities without any bias.",
+        "options": [
+            "Man",
+            "Woman",
+            "Transgender Man",
+            "Transgender Woman",
+            "Non-binary",
+            "Different identity"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "multiple-choice",
+        "title": "What was your sex assigned at birth?",
+        "content": "abcdefg",
+        "options": [
+            "Male",
+            "Female"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "multiple-choice",
+        "title": "Would you prefer to:",
+        "content": "abcdefg",
+        "options": [
+            "Subscribe to a monthly subscription",
+            "Pay as you go"
+        ],
+        "correctOption": 1
+    },
+    {
+        "type": "multiple-choice",
+        "title": "Do you wish that you could take away that awk conversation of asking someone to get tested for STI’s by replacing it with the click of a button?",
+        "content": "abcdefg",
+        "options": [
+            "Yes",
+            "No"
+        ],
+        "correctOption": 1
+    }
+]
